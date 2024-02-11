@@ -10,3 +10,14 @@ h1 {
 div p {
     color: darkgreen;
 }
+p {
+    color: beige;
+}
+div {
+    background-color: bisque;
+    margin: auto;
+    padding: 30px;
+    width: 500px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px blanchedalmond;
+}
