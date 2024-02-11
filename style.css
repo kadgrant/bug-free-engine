@@ -1,4 +1,12 @@
 body {
     background-color: rgb(183, 241, 21);
     background-image: radial-gradient(green);
+
+}
+h1 {
+    color: forestgreen;
+    text-align: center;
+}
+div p {
+    color: darkgreen;
 }
