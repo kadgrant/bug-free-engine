@@ -1,20 +1,20 @@
 body {
-    background-color: rgb(183, 241, 21);
-    background-image: radial-gradient(green);
+    background-color: rgb(62, 145, 76);
+    background-image: radial-gradient(rgb(91, 71, 114));
 
 }
 h1 {
-    color: forestgreen;
+    color: rgb(168, 138, 3);
     text-align: center;
 }
 div p {
-    color: darkgreen;
+    color: rgb(101, 58, 141);
 }
 p {
     color: beige;
 }
 div {
-    background-color: bisque;
+    background-color: rgb(90, 27, 74);
     margin: auto;
     padding: 30px;
     width: 500px;
