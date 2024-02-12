@@ -9,6 +9,7 @@ h1 {
 }
 div p {
     color: rgb(101, 58, 141);
+    width: 500px;
 }
 p {
     color: beige;
